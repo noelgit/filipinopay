@@ -1,0 +1,20 @@
+.formDivLeft{
+	display: inline-block; 
+	width: 120px;
+	font-size: 12px;
+}
+.formDivRight{
+	display: inline-block; 
+	width: 230px; 
+	text-align: left;  
+	font-size: 12px;
+}
+.formFieldNumber{
+	width:40px;
+	font-size:12px;
+}
+.formButton{
+	background: transparent;
+    border: 0px;
+    cursor: pointer;
+}

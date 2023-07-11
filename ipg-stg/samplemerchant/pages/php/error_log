@@ -1,0 +1,195 @@
+[07-Mar-2019 05:07:38 UTC] PHP Notice:  Undefined index: transaction in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[07-Mar-2019 05:07:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[07-Mar-2019 05:08:18 UTC] PHP Notice:  Undefined index: transaction in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[07-Mar-2019 05:08:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[07-Mar-2019 05:08:18 UTC] PHP Notice:  Undefined index: transaction in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[07-Mar-2019 05:08:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[14-May-2019 15:09:40 UTC] PHP Notice:  Undefined index: transaction in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[14-May-2019 15:09:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[14-May-2019 15:09:44 UTC] PHP Notice:  Undefined index: transaction in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[14-May-2019 15:09:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[26-Feb-2022 02:02:33 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/agcz69p5iu7q/public_html/samplemerchant.filipinopay.com/pages/php/getIPGLink.php on line 58
+[15-Mar-2023 10:38:46 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:38:48 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:38:52 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:38:59 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:39:07 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:39:08 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:39:10 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:39:11 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:39:12 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:39:13 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:39:14 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:39:15 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:39:17 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:39:18 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:39:20 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:39:21 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:40:25 Asia/Manila] PHP Notice:  Trying to get property 'access_token' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[15-Mar-2023 10:41:28 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[15-Mar-2023 10:42:31 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[15-Mar-2023 10:43:34 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[15-Mar-2023 10:45:44 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[15-Mar-2023 10:46:47 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[15-Mar-2023 10:47:31 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[15-Mar-2023 10:47:46 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[15-Mar-2023 10:47:50 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[16-Mar-2023 14:58:00 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:15:50 Asia/Manila] PHP Notice:  Undefined index: transaction in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 76
+[22-Mar-2023 12:15:50 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 76
+[22-Mar-2023 12:15:55 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:16:00 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:16:26 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:16:36 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:16:37 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:17:06 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:18:48 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:19:08 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:19:44 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:20:04 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:20:22 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:20:23 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:20:25 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:20:41 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:20:51 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:20:52 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:20:53 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:23:37 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:24:05 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:24:09 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:24:10 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:24:11 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:24:13 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:24:14 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:24:16 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:24:17 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:30:36 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:16 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:18 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:19 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:20 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:21 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:22 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:23 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:24 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:25 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:27 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:28 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:29 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:30 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:32 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:36:33 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 12:37:36 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:38:39 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:39:42 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:40:45 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:52:35 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:52:37 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:52:39 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:52:44 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:52:48 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:41 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:46 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:47 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:47 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:47 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:48 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:49 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:49 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:50 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:50 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:52 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:53 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:53 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:53 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:54 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:54 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:55 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:55 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:53:56 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:54:59 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:56:02 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:57:05 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 12:58:08 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 13:01:01 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 13:02:23 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 13:03:26 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 13:03:44 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 13:08:57 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 13:12:42 Asia/Manila] PHP Notice:  Trying to get property 'Code' of non-object in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 29
+[22-Mar-2023 13:22:35 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 13:22:41 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 13:22:53 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 13:34:11 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 14:39:40 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 14:39:43 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 14:40:00 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 14:40:01 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 14:40:27 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 14:41:05 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 14:41:06 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 14:41:07 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 14:41:26 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 14:41:29 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 14:42:11 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 14:42:31 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 14:43:12 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 15:00:54 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 15:01:20 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 15:01:48 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 15:21:16 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 15:21:18 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 15:21:19 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 15:21:20 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 15:21:22 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 15:21:23 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 15:21:24 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 15:21:25 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[22-Mar-2023 15:28:05 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[24-Mar-2023 16:13:52 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:36:54 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:37:11 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:37:30 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:37:30 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:38:57 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:40:09 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:40:22 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:40:29 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:40:32 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:40:34 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:40:39 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:40:39 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:40:40 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:40:41 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:40:41 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:41:20 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:41:25 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:41:26 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:41:27 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:41:28 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:41:28 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:41:29 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[27-Mar-2023 15:41:29 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:27:01 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:27:06 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:27:36 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:27:45 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:29:10 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:29:28 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:30:04 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:39:10 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:39:12 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:39:14 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:40:05 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:40:06 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:40:07 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:40:08 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:40:09 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:40:34 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:40:35 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:40:35 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:40:36 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:40:37 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:40:38 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:40:38 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52
+[11-Apr-2023 15:40:39 Asia/Manila] PHP Notice:  Undefined property: stdClass::$access_token in /home/agcz69p5iu7q/public_html/ipg-stg/samplemerchant/pages/php/getIPGLink.php on line 52

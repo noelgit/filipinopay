@@ -1,0 +1,92 @@
+[17-Apr-2021 04:58:48 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/index.php on line 2
+[17-Apr-2021 04:58:48 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/index.php on line 2
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 3
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 97
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Trying to get property 'TRN' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 97
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 104
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Trying to get property 'PAYMENT_FOR' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 104
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 111
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Trying to get property 'AMOUNT' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 111
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 118
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Trying to get property 'DUEDATE' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 118
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 147
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 157
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Trying to get property 'TRN' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 157
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 164
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Trying to get property 'PAYMENT_FOR' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 164
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 171
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Trying to get property 'AMOUNT' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 171
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 178
+[18-Mar-2022 16:43:34 Asia/Manila] PHP Notice:  Trying to get property 'DUEDATE' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 178
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 3
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 97
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Trying to get property 'TRN' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 97
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 104
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Trying to get property 'PAYMENT_FOR' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 104
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 111
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Trying to get property 'AMOUNT' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 111
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 118
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Trying to get property 'DUEDATE' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 118
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 147
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 157
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Trying to get property 'TRN' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 157
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 164
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Trying to get property 'PAYMENT_FOR' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 164
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 171
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Trying to get property 'AMOUNT' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 171
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 178
+[18-Mar-2022 16:44:56 Asia/Manila] PHP Notice:  Trying to get property 'DUEDATE' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 178
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 3
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 97
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Trying to get property 'TRN' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 97
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 104
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Trying to get property 'PAYMENT_FOR' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 104
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 111
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Trying to get property 'AMOUNT' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 111
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 118
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Trying to get property 'DUEDATE' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 118
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 147
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 157
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Trying to get property 'TRN' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 157
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 164
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Trying to get property 'PAYMENT_FOR' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 164
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 171
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Trying to get property 'AMOUNT' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 171
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 178
+[18-Mar-2022 16:45:15 Asia/Manila] PHP Notice:  Trying to get property 'DUEDATE' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 178
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 3
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 97
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Trying to get property 'TRN' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 97
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 104
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Trying to get property 'PAYMENT_FOR' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 104
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 111
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Trying to get property 'AMOUNT' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 111
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 118
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Trying to get property 'DUEDATE' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 118
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 147
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 157
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Trying to get property 'TRN' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 157
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 164
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Trying to get property 'PAYMENT_FOR' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 164
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 171
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Trying to get property 'AMOUNT' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 171
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 178
+[18-Mar-2022 16:45:42 Asia/Manila] PHP Notice:  Trying to get property 'DUEDATE' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 178
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 3
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 97
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Trying to get property 'TRN' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 97
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 104
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Trying to get property 'PAYMENT_FOR' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 104
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 111
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Trying to get property 'AMOUNT' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 111
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 118
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Trying to get property 'DUEDATE' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 118
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 147
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 157
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Trying to get property 'TRN' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 157
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 164
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Trying to get property 'PAYMENT_FOR' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 164
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 171
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Trying to get property 'AMOUNT' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 171
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 178
+[18-Mar-2022 16:49:32 Asia/Manila] PHP Notice:  Trying to get property 'DUEDATE' of non-object in /home/agcz69p5iu7q/public_html/dbp/PAGES/retrigger-page/sections/form-post-payment.php on line 178

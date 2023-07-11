@@ -1,0 +1,187 @@
+body{
+    min-height: 100vh;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+}
+a, a:hover, a:focus{
+	text-decoration: none !important;
+	color: #212529;
+}
+
+a.link, a.link:hover, a.link:focus{
+    color: #5e8dc1;
+}
+
+.bodyBackground{
+    background: url(../IMG/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;    
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    position: absolute;
+}
+.bodyBackgroundMask{
+    position: absolute;	    
+    height: 100%;
+    width: 100%;  
+    background: rgba(0, 0, 0, 0.45098039215686275);
+}
+.minHeight100 {
+    height: 100% !important;
+    margin: 0px;
+    min-height: 100vh;
+}
+
+.divLeft{
+	background: rgba(0, 0, 0, 0.45098039215686275);	
+}
+
+.LGULogo{
+	width: 120px;
+}
+
+#frmRequestPayment{
+	padding: 20px;
+    background: rgba(255, 255, 255, 0.09019607843137255);
+    border-radius: 5%;
+}
+
+.input-group-text{
+	background: transparent;
+    color: white;	
+    font-size: 13px;
+}
+
+.form-control{
+	background: transparent;
+    color: white;	
+    font-size: 13px;
+}
+
+label.error{
+    color: #f76262;
+    display: block;  
+    font-size: 13px;
+}
+
+.btnSubmit, .btnSubmit:hover, .btnSubmit:focus{
+	background: white;
+    color: #2f2f2f; 
+    min-width: 100px;
+}
+
+.copyright{
+	position: absolute;
+    bottom: 15px;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    left: 0;
+    font-size: 13px;
+}
+
+.mt15{
+	margin-top: 15px;
+}
+
+.logoDiv{
+    bottom: 0%;
+    right: 2%;
+    position: absolute;
+}
+
+.logoDiv > ul > li{
+	display: inline-block; 
+	padding: 5px;
+	background: white;
+	border-radius: 10px;
+}
+
+.mobileLogoDiv{
+	text-align: right;
+    margin: 30px 0px;
+}
+.mobileLogoDiv > ul > li{
+	display: inline-block; 
+	padding: 5px;
+	background: white;
+	border-radius: 10px;
+
+}
+.titleDiv{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.titleDiv .label1 {
+	font-size: 24px;
+    font-weight: 600;
+    color: white;
+    letter-spacing: 2px;
+}
+
+.titleDiv .label2 {
+    font-size: 35px;
+    color: white;
+    display: block;
+    font-weight: 600;
+    margin-top: -10px;
+    letter-spacing: 5px;
+}
+  
+.mobileTitle{
+	text-align: center;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+/* Updates Jan 26, 2021 */
+
+.titleDiv .caption1 {
+	font-size: 22px;
+    font-weight: 400;
+    color: white;
+    letter-spacing: 2px;
+    margin-top: 200px;
+}
+
+.titleDiv .caption2 {
+    font-size: 18px;
+    color: white;
+    display: block;
+    font-weight: 300;
+}
+
+.titleDiv .caption3 {
+    font-size: 18px;
+    color: white;
+    display: block;
+    font-weight: 300;
+}
+/* End of Updates Jan 26, 2021 */
+
+.successIcon{
+    color: #05af05a6;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.failedIcon{
+    color: #b60808ab;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.font-black{
+    color: black;
+}
+
+.ulError{
+    font-size: 13px;
+    padding-left: 15px;  
+}
+
+.ulError > li{
+    margin-bottom: 10px;
+}

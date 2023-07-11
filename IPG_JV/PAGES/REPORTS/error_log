@@ -1,0 +1,154 @@
+[09-Dec-2019 19:17:27 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[09-Dec-2019 19:17:27 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[09-Dec-2019 19:17:27 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[09-Dec-2019 19:17:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[17-Dec-2019 02:06:30 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[17-Dec-2019 02:06:30 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[17-Dec-2019 02:06:30 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[17-Dec-2019 02:06:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[17-Dec-2019 02:23:16 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[17-Dec-2019 02:23:16 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[17-Dec-2019 02:23:16 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[17-Dec-2019 02:23:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[02-Sep-2020 13:47:51 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[02-Sep-2020 13:47:51 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[02-Sep-2020 13:47:51 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[02-Sep-2020 13:47:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[09-Sep-2020 02:34:16 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[09-Sep-2020 02:34:16 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[09-Sep-2020 02:34:16 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[09-Sep-2020 02:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[09-Sep-2020 02:37:47 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[09-Sep-2020 02:37:47 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[09-Sep-2020 02:37:47 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[09-Sep-2020 02:37:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[09-Sep-2020 02:38:42 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[09-Sep-2020 02:38:42 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[09-Sep-2020 02:38:42 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[09-Sep-2020 02:38:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[19-May-2021 02:19:13 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[19-May-2021 02:19:13 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[19-May-2021 02:19:13 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[19-May-2021 02:19:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[19-May-2021 02:24:01 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[19-May-2021 02:24:01 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[19-May-2021 02:24:01 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[19-May-2021 02:24:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[23-Jun-2021 06:15:51 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[23-Jun-2021 06:15:51 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[23-Jun-2021 06:15:51 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[23-Jun-2021 06:15:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[23-Jun-2021 06:17:03 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[23-Jun-2021 06:17:03 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[23-Jun-2021 06:17:03 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[23-Jun-2021 06:17:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[23-Jun-2021 08:22:08 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[23-Jun-2021 08:22:08 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[23-Jun-2021 08:22:08 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[23-Jun-2021 08:22:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[25-Jun-2021 00:11:52 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[25-Jun-2021 00:11:52 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[25-Jun-2021 00:11:52 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[25-Jun-2021 00:11:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[25-Jun-2021 01:50:06 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[25-Jun-2021 01:50:06 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[25-Jun-2021 01:50:06 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[25-Jun-2021 01:50:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[25-Jun-2021 03:46:07 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[25-Jun-2021 03:46:07 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[25-Jun-2021 03:46:07 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[25-Jun-2021 03:46:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[25-Jun-2021 07:24:58 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[25-Jun-2021 07:24:58 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[25-Jun-2021 07:24:58 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[25-Jun-2021 07:24:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[28-Jun-2021 01:56:25 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[28-Jun-2021 01:56:25 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[28-Jun-2021 01:56:25 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[28-Jun-2021 01:56:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[28-Jun-2021 03:29:34 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[28-Jun-2021 03:29:34 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[28-Jun-2021 03:29:34 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[28-Jun-2021 03:29:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[28-Jun-2021 08:33:45 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[28-Jun-2021 08:33:45 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[28-Jun-2021 08:33:45 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[28-Jun-2021 08:33:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[01-Jul-2021 03:21:05 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[01-Jul-2021 03:21:05 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[01-Jul-2021 03:21:05 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[01-Jul-2021 03:21:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[01-Jul-2021 08:23:54 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[01-Jul-2021 08:23:54 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[01-Jul-2021 08:23:54 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[01-Jul-2021 08:23:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[01-Jul-2021 08:24:06 UTC] PHP Warning:  include(PAGES/REQUIRES/header.php): failed to open stream: No such file or directory in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[01-Jul-2021 08:24:06 UTC] PHP Warning:  include(): Failed opening 'PAGES/REQUIRES/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 3
+[01-Jul-2021 08:24:06 UTC] PHP Notice:  Undefined variable: dbMerchant in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5
+[01-Jul-2021 08:24:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getResults() on null in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agcz69p5iu7q/public_html/IPG_JV/PAGES/REPORTS/index.php on line 5

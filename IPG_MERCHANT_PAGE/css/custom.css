@@ -1,0 +1,75 @@
+.navbar{
+	background: #003e52;
+}
+
+.nav-link > .companyName{
+	color: white;
+}
+
+.navigationDiv{
+    padding: 5px 0px;
+    background: #eeeeee;
+}
+.navigation{
+	margin: 0px
+}
+
+.navigation > li {
+	display: inline-block;
+	margin-right: 20px
+}
+.navigation > li > a{
+	text-decoration: none;
+	color: black;
+}
+
+.customContainer{
+    max-width: 100%;
+    padding: 0px 38px;
+}
+
+.customRow{
+    display: flex;
+    flex-wrap: wrap;
+}
+.productIMG{
+	box-shadow: 0px 0px 2px 0px #636363;
+}
+
+.productList > li{
+	border-bottom: 1px solid #cfcfcf;
+    padding-bottom: 20px;
+    margin-right: 20px;
+}
+
+.paymentSummary{
+    height: 100%;
+    padding-bottom: 20px;
+    color: #4e4e4e;
+    box-shadow: 1px 1px 2px 1px #003e5261;
+}
+
+.btnProceed, .btnProceed:hover{
+	background: #f37021;
+	color: white;
+}
+
+.customDivShadow{
+    box-shadow: 1px 1px 1px 1px #bdbdbd;
+    padding: 50px 0px;
+}
+
+.successIcon{
+    color: #05af05a6;
+    font-size: 100px;
+    margin-bottom: 10px;
+}
+.failedIcon{
+    color: #b60808ab;
+    font-size: 100px;
+    margin-bottom: 10px;
+}
+
+.addToCart{
+    cursor: pointer;
+}

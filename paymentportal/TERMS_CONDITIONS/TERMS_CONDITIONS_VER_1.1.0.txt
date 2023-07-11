@@ -1,0 +1,272 @@
+
+
+
+	
+	<p>
+		1. Once accepting these Terms and Conditions, the user agrees, understand and confirms into these
+		terms and conditions, together with the supplemental conditions hereto, acknowledging that
+		FilipinoPay is only a third party processor.
+	</p>
+	
+
+	
+	<p>
+		2. Any personal account details that are associated with the product purchase or service payment
+		using this payment facility are strictly confidential between you and the merchant. FilipinoPay will
+		not collect any sensitive data on behalf of the merchant.
+	</p>
+
+
+
+	<p>
+		3. By using the services provided by FilipinoPay, you agree to accept our policy in allowing the
+		collection, storing, and utilization of your basic personal information which is necessary for
+		verification of your account and processing of payments.
+	</p>
+
+
+
+	<p>
+		4. Server slow down/session timeout: in case the website or payment service provider's webpage,
+		that is linked to the website, is experiencing any server related issues like "slow down" or
+		"failure" or "session timeout", the user shall, before initiating the second payment, check
+		whether his/her Bank Account has been debited or not and accordingly resort to one of the
+		following options:
+	</p>
+
+	<ul>
+		<li>
+			<p align="left" style="font-size:90%;">
+				In case the Bank Account appears to be debited, ensure that he/she does not make the
+				payment twice and immediately thereafter contact your card issuing bank via email or 
+				any other means, as provided by your bank to confirm payment.
+			</p>
+		</li>
+		
+		<li>
+			<p align="left" style="font-size:90%;">
+				In the case of Bank Account is not debited, the user may initiate a fresh transaction
+				to initiate payment.
+			</p>
+		</li>
+		
+		<li>
+			<p align="left" style="font-size:90%;">
+				However, the user agrees that under no circumstances the payment gateway service 
+				provider shall be held responsible for such fraudulent/duplicate transactions and 
+				hence no claims should be raised to payment gateway service provider no communication
+				received by the payment service provider(s) in this regards shall be entertained by
+				the payment service provider(s).
+			</p>
+		</li>
+	</ul>
+	
+
+	
+	<p>
+		5. In these Terms and Conditions, the term "Charge Back" shall mean, approved
+		and settled credit card or net banking purchase transaction(s) which are refused,
+		debited or charged back to merchant account (and shall also include similar debits
+		to payment service provider's accounts, if any) by the acquiring bank or credit card
+		company for any reason whatsoever, this only includes the principal payment amount
+		excluding the card fees, and other charges incidental thereto. Acknowledge chargeback
+		will be treated according to the following options:
+	</p>
+
+		<ul>
+			<li>
+				<p align="left" style="font-size:90%;">
+					In case the acquiring bank or credit card company performed the validation and
+					affirmation of the chargeback request not beyond the assigned daily reporting
+					cut-off time.
+				</p>
+			</li>
+			
+			<li>
+				<p align="left" style="font-size:90%;">
+					In case processing of chargeback goes beyond the assigned daily reporting cut-off time,
+					the user may need to directly coordinate with the concerned merchant in order to
+					comply with the refund policy, if applicable.
+				</p>
+			</li>
+		</ul>
+	
+
+	
+	<p>
+		6. The institute and the payment service provider(s) assume no liability whatsoever for 
+		any monetary or other damage suffered by the user on account of:
+	</p>
+
+		<ul>
+			<li>
+				<p align="left" style="font-size:90%;">
+					The delay, failure, interruption, or corruption of any data or other information
+					transmitted in connection with use of the payment gateway or services in 
+					connection thereto; and/or
+				</p>
+			</li>
+			
+			<li>
+				<p align="left" style="font-size:90%;">
+					Any interruption or errors in the operation of the Payment Gateway.
+				</p>
+			</li>
+		</ul>
+	
+
+	
+	<p>
+		7. The User agrees, understands and confirms that his/ her personal data including without
+		limitation details relating to debit card/ credit card transmitted over the Internet may be
+		susceptible to misuse, hacking, theft and/ or fraud and that the Institute or the Payment Service
+		Provider(s) have no control over such matters.
+	</p>
+	
+	
+	
+	<p>
+		8. An undelivered payment confirmation email: As a user, you agree to provide a valid and accessible
+		email address, and accept full responsibility for the transactions processed through the use of 
+		such email address and that FilipinoPay in any way will not be held liable into any undelivered
+		email that is due to an unreachable email address.
+	</p>
+		
+	<p>
+		As a proof of payment, an email confirmation will be available for the user in every after 
+		successful payment transactions, failure to receive the aforementioned payment confirmation, 
+		please be advised of the following option:
+		
+		<ul>
+			<li>
+				<p align="left" style="font-size:90%;">
+					In case the Bank Account appears to be debited and unavailability of payment confirmation,
+					kindly allocate at least 2 mins before you contact FilipinoPay support for assistance.
+				</p>
+			</li>
+			
+		</ul>
+	</p>
+
+	
+	<p>
+		9. The User agrees, understands and confirms that although all reasonable care has been taken
+		towards guarding against unauthorized use of any information transmitted by the user,
+		FilipinoPay does not represent or guarantee that the use of the Services provided by/ through it
+		will not result in theft and/or unauthorized use of data over the Internet.
+	</p>
+	
+	<p>
+		10. The user agrees, understands and confirms that FilipinoPay, the Payment Service Provider(s) and
+		its affiliates and associates shall not be liable, at any time, for any failure of performance, error,
+		omission, interruption, deletion, defect, delay in operation or transmission, computer virus,
+		communications line failure, theft or destruction or unauthorized access to, alteration of, or use
+		of information contained on the Website.
+	</p>
+	
+	<p>
+		11. FilipinoPay shall undertake due diligence all instructions received using the information you
+		provided. As our client, you shall accept full responsibility for all your transaction processed
+		through the use of such information whether or not processed by your authority.
+	</p>
+	
+	<p>
+		12. FilipinoPay may hold the right to share information in any case that it is necessary to our
+		partnering financial institutions during joint collaboration to improve your payment processing
+		experience.
+	</p>
+	
+	<p>
+		13. This payment gateway facility is operated and owned by FilipinoPay and may contain materials
+		which cannot be copied, republish, reproduce, distributed for any purpose without prior
+		permission or approval from FilipinoPay.
+	</p>
+
+
+
+<h5>Credit/Debit Card</h5>
+
+<ol>
+	<li>
+		<p align="left" style="font-size:90%;">
+			The User agrees that the debit/credit card details provided by him/ her for use of the aforesaid
+			Service(s) must be correct and accurate and that the User shall not use a debit/ credit card, that
+			is not lawfully owned by him/ her or the use of which is not authorized by the lawful owner
+			thereof. The User further agrees and undertakes to provide a correct and valid debit/credit card
+			details.
+		</p>
+	</li>
+	
+	<li>
+		<p align="left" style="font-size:90%;">
+			The User may pay his/her fees to the merchant by using credit/debit card. The User warrants
+			agree and confirm that when he/she initiates a payment transaction and/or issues an online
+			payment instruction and provides his/her card details:
+		</p>
+	</li>
+	
+		<ul>
+			<li>
+				<p align="left" style="font-size:90%;">
+					The User is fully and lawfully entitled to use such credit/debit card for such transactions;
+				</p>
+			</li>
+			
+			<li>
+				<p align="left" style="font-size:90%;">
+					The User is responsible to ensure that the card details provided by him/her are accurate;
+				</p>
+			</li>
+			
+			<li>
+				<p align="left" style="font-size:90%;">
+					The User is authorizing the debit of the nominated card for the payment of fees selected
+					by such User along with the applicable card fees and other charges.
+				</p>
+			</li>
+			
+			<li>
+				<p align="left" style="font-size:90%;">
+					The User is responsible to ensure sufficient credit is available on the nominated card to
+					the time of making the payment to permit the payment of the dues payable or the bill(s)
+					selected by the User inclusive of the applicable Fee.
+				</p>
+			</li>
+			
+		</ul>
+</ol>
+
+<h5>Payment Gateway Disclaimer</h5>
+
+<p>
+	The Service is provided in order to facilitate access to view and pay Fees online. FilipinoPay or the
+	Payment Service Provider(s) do not make any representation of any kind, express or implied, 
+	as to the operation of the Payment Gateway other than what is specified in the Website for this
+	purpose. By accepting/agreeing to these Terms and Conditions, the User expressly agrees that his/her
+	use of the aforesaid online payment Service is entirely at own risk and responsibility of the User.
+</p>
+
+<h5>Cancellation Policy</h5>
+
+<p>
+	Once the User paid the Fee through online Payment Gateway. He/She will not be able to cancel
+	the transaction in any circumstances. No Payment will be refunded to the User.
+</p>
+
+<h5>Payment Refund Policy for Online Payments</h5>
+
+<p>
+	Refund for Charge Back Transaction: In the event, there is any claim for/of a chargeback by
+	the User for any reason whatsoever, such User shall immediately approach the card issuing bank with
+	his/ her claim details and claim a refund from the FilipinoPay alone. Such refund (if any) shall be
+	effected only by the FilipinoPay via payment gateway or any other means as the Institute deems
+	appropriate. No claims for refund/ chargeback shall be made by any User to the Payment Service
+	Provider(s) and in the event, such claim is made it shall not be entertained.
+</p>
+
+<p>
+	Refund for fraudulent/duplicate transaction(s):  The User shall directly contact the Institute for
+	any fraudulent transaction(s) on account of misuse of Card/ Bank details by a fraudulent
+	individual/party and such issues shall be suitably addressed by the Institute alone in line with their
+	policies and rules.
+</p>

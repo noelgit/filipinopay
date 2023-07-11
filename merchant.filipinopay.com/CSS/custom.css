@@ -1,0 +1,197 @@
+table.dataTable thead .sorting { background: url('../IMAGES/sort_both.png') no-repeat center right; }
+table.dataTable thead .sorting_asc { background: url('../IMAGES/sort_asc.png') no-repeat center right; }
+table.dataTable thead .sorting_desc { background: url('../IMAGES/sort_desc.png') no-repeat center right; }
+
+table.dataTable thead .sorting_asc_disabled { background: url('../IMAGES/sort_asc_disabled.png') no-repeat center right; }
+table.dataTable thead .sorting_desc_disabled { background: url('../IMAGES/sort_desc_disabled.png') no-repeat center right; }
+
+
+.merchantIcon{
+  width:130px;
+}
+.list-graph{
+	padding: 0px;
+}
+.list-graph > li{
+	display: inline-block;
+	margin-right:10px;
+}
+.list-graph > li .op{
+    color:#0b62a4;
+}
+.list-graph > li .ufp{ 
+    color:#7a92a3;
+}
+.list-graph > li .ep{
+    color:#4da74d;
+
+}
+
+.successTransactions{
+	min-height: 100px;
+    padding: 32px 20px;
+    background: #6db556;
+    width: 50%;
+    display: inline-block;
+    border-right: 2px solid white;
+} 
+.totalTransaction{
+	min-height: 100px;
+    padding: 10px 20px;
+    background: #6aa3d8;
+    width: 50%;
+    display: inline-block;
+    position: absolute;
+    border-left: 2px solid white;
+}
+.dateTime{
+    text-align: right;
+    color: #353535;
+    font-size: 14px;
+}
+
+.successTransactions > .currency{
+    color: white;
+    font-size: 20px;
+    margin: 0px;
+    position: absolute;
+    margin-top: -10px;
+}
+.successTransactions > .amount{
+    width: 100%;
+    font-size: 40px;
+    color: white;
+    text-align: right;
+    margin: 0px;
+} 
+.successTransactions > .transactionLabel{
+    color: white;
+    text-align: right;
+    width: 100%;
+}
+
+.totalTransaction > .collectionsLabel{
+	color: white;
+    width: 100%;
+    text-align: right;
+    margin: 0px;
+}
+.totalTransaction > .highestCollection{
+    color: white;
+    width: 100%;
+    text-align: right;
+    margin: 0px;
+	display: block;
+}
+
+.totalTransaction > .currency{
+    color: white;
+    font-size: 20px;
+    margin: 0px;
+    position: absolute;
+    margin-top: -10px;
+}
+.totalTransaction > .amount{
+    width: 100%;
+    font-size: 40px;
+    color: white;
+    text-align: right;
+    margin: 0px;
+} 
+.totalTransaction > .transactionLabel{
+    color: white;
+    text-align: right;
+    width: 100%;
+}
+
+.transactionCountDiv{
+    margin: 0px;  
+    border: 5px solid white;
+}
+
+.transactionCountDiv > div{ 
+	padding: 10px 0px;
+    text-align: center; 
+    border: 5px solid white;
+}
+
+.transactionCountDiv > div > span{
+	font-size:50px;
+    color: white;
+	display: block;
+}
+
+.transactionCountDiv > div > label{
+	font-size:15px;
+    color: white;
+	display: block;
+}
+
+.totalTransactionCount{
+    width: 100%;
+    display: block;
+    text-align: right;
+    padding-right: 10px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-weight: 600;
+}
+
+.divLogin{
+    text-align: center;
+    background: white;
+    padding: 30px 20px;
+    box-shadow: 0px 0px 8px 3px #c5c5c5;
+}
+
+.btnLogin{
+    background: #6aa3d8;
+    color: white;
+}
+.btnLogin:hover, .btnLogin:focus{  
+     color: white;
+     background: #5e8db9;
+}
+
+.forgotPassword, .forgotPassword:hover{
+    text-decoration: none;
+    color: #333333;
+}
+
+.error{
+    color: #cc1010;
+}
+
+.countTotal{
+    background: #507394 !important; 
+}
+
+.countSuccess{
+    background: #4f8c4f !important;
+}
+
+.countFailed{
+    background: #861212 !important;
+}
+
+.countProcess{
+    background: #9a6d1b !important;
+}
+
+.btnRefresh, .btnRefresh:hover, .btnRefresh:focus{
+    float: right;
+    margin-top: -5px;
+    color: white;
+    background: #6aa3d8;
+}
+
+.tableAddScroll {
+  overflow-y: scroll;
+  height: 100px;
+}
+
+.dropdownAction{
+    position: absolute; 
+    right: 8%;
+    margin-top: -27px;
+}

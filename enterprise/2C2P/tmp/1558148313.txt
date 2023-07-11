@@ -1,0 +1,7 @@
+<PaymentProcessRequest>
+			<version>3.4</version> 
+			<merchantID>JT05</merchantID>
+			<processType>I</processType>
+			<invoiceNo>190518104832</invoiceNo> 
+			<hashValue>7D00AC2418518D0AEA5559F306B05495C3D09BCB</hashValue>
+			</PaymentProcessRequest>

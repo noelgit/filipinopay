@@ -1,0 +1,59 @@
+.formDivLeft{
+	display: inline-block; 
+	width: 120px;
+	font-size: 12px;
+}
+.formDivRight{
+	display: inline-block; 
+	width: 230px; 
+	text-align: left;  
+	font-size: 12px;
+}
+.formFieldNumber{
+	width:40px;
+	font-size:12px;
+}
+.formButton{
+	background: transparent;
+    border: 0px;
+    cursor: pointer;
+}
+
+.labelHeader > span{
+    font-size: 20px;
+    top: -10px;
+    position: relative;
+    display: inline-block;
+}
+.labelHeader > svg{
+	font-size: 50px;
+	margin-right: 20px;
+}
+
+.labelSecondary > span{
+	font-size: 18px;
+	margin-right: 5px;
+}
+
+.labelSecondary > svg{
+	font-size: 30px;
+	margin-right: 10px;	
+}
+
+.labelThird{
+	margin-top: 5px;
+}
+.labelThird > svg{
+	font-size: 30px;
+}
+
+.labelThird > a, .labelThird > a:hover{
+	font-size: 16px; 
+    top: -5px;
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+}
+#cvvModal p{
+	font-size: 15px;
+}

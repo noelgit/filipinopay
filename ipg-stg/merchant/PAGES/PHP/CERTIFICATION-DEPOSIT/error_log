@@ -1,0 +1,2 @@
+[28-Feb-2023 16:05:17 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; hash_encryption has a deprecated constructor in /home/agcz69p5iu7q/public_html/ipg-stg/merchant/LIBRARIES/hash.crypt.class.php on line 16
+[28-Feb-2023 16:05:17 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; db has a deprecated constructor in /home/agcz69p5iu7q/public_html/ipg-stg/merchant/LIBRARIES/database.class.php on line 2

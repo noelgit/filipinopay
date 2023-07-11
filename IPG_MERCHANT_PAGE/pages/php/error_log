@@ -1,0 +1,10 @@
+[07-Mar-2019 05:07:38 UTC] PHP Notice:  Undefined index: transaction in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[07-Mar-2019 05:07:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[07-Mar-2019 05:08:18 UTC] PHP Notice:  Undefined index: transaction in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[07-Mar-2019 05:08:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[07-Mar-2019 05:08:18 UTC] PHP Notice:  Undefined index: transaction in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[07-Mar-2019 05:08:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[14-May-2019 15:09:40 UTC] PHP Notice:  Undefined index: transaction in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[14-May-2019 15:09:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[14-May-2019 15:09:44 UTC] PHP Notice:  Undefined index: transaction in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64
+[14-May-2019 15:09:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/agcz69p5iu7q/public_html/IPG_MERCHANT_PAGE/pages/php/getIPGLink.php on line 64

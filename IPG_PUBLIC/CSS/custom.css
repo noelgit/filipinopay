@@ -1,0 +1,316 @@
+body{
+    min-height: 100vh;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    background: white;
+    /*background: linear-gradient(#ffffff,#eaeaea);*/
+}
+.TaCBox{
+    padding:30px;
+    background: white;
+    border-radius: 10px;
+    border:1px solid #dedede;
+}
+
+.TaCClose{
+	position: absolute;
+    right: 2%;
+    top: 0%;
+    color: #000000;
+    font-size: 30px;
+}
+.TaCClose:hover {
+	color: #6b6b6b; 
+}
+.TaCContent{
+    height: 400px;
+    padding: 0px 20px;
+    overflow: hidden;
+    overflow-y: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.TaCContent > p {
+    text-align: justify; 
+    font-size: 15px;
+}
+
+.TaCContent > button{ 
+}
+/* width */
+.TaCContent::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+.TaCContent::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+/* Handle */
+.TaCContent::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+
+/* Handle on hover */
+.TaCContent::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+.TaCScrollBTN{
+    color: #4e73df !important;
+    font-weight: 700;
+    cursor: pointer;
+    font-size: 14px;
+}
+.header{
+    border-bottom: 1px solid #f1f1f1;
+    background: linear-gradient(#ffffff,#ffffff,#ffffff,#f1f1f1);
+}
+.logoHeader{
+    width: 70px;
+}
+.div_content{
+
+}
+
+.navigationLink {
+    margin: 10px;
+    float: right;
+    padding-left: 0px;
+}
+.navigationLink > li {
+    display: inline-block;
+    margin-left: 20px;
+    text-align:center;
+}
+
+.navigationLink > li > a {
+    font-size:30px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.navigationLink > li > a > span{
+    font-size: 12px;
+    display: block; 
+    font-weight: 600;
+}
+
+.defaultLink{
+    text-decoration: none;
+    color: #4e4e4e;
+    cursor: pointer;
+}
+.defaultLink:hover{
+    text-decoration: none;
+    color: #4e4e4e  
+}
+
+.footer{
+    background: #ffffff;
+    position: absolute;
+    width: 100%;
+    padding: 10px 0px;
+    bottom: 0;
+    text-align: center;
+    border-top: 1px solid #d8d8d8;
+}
+
+.paymentMethod{
+    padding: 15px;
+    outline: none;
+    background: white;    
+    border-radius: 10px;
+    border: 1px solid #dedede;
+}
+ 
+.paymentMethod:active{ 
+    animation: pulse 1s;  
+}
+
+.paymentMethod span{
+    font-weight: 600;
+    font-size: 13px;
+    color: #333333;
+}
+.customRow{ 
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.onlineCardOptions > .optionsDiv {
+    width: 100%;
+    border-radius: 0%;
+    text-align: center;
+    padding: 10px 40px;
+    box-shadow: 1px 1px 5px 1px #c3c2c2;
+}
+
+.upFrontOptions > .optionsDiv, .eWalletOptions > .optionsDiv {
+    width: 100%;
+    text-align: center;
+    padding: 15px 20px;
+    background: white;
+    border-radius: 5px;
+    border: 1px solid #dedede;
+}
+
+.upFrontOptions label{
+    margin-top: -30px;
+    background: white;
+    width: 50% !important;
+    padding: 3px 35px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    border-radius: 5px;
+    border: 1px solid #dedede;
+}
+.optionsDiv2 {
+    width: 100%;
+    text-align: center;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    background: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #dedede;
+}
+
+.optionsCircle {
+    height: 50px;
+    width: 50px;
+    box-shadow: 1px 1px 5px 1px #c3c2c2;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 2;
+    top: -20px;
+    left: -5px;
+    background: white;
+}
+.optionsDiv > label, .optionsDiv2 > label{
+    font-size: 14px;
+    font-weight: 600;  
+    width: 100%;
+    text-align: center
+}
+.optionsDiv > span{
+    font-size: 13px;
+    width: 100%;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.optionsDiv .optionsLink {
+    border-radius: 5px;
+    padding: 5px;
+    line-height: 4.5;
+    height: 100%;
+    cursor: pointer;
+    display: block;
+    border: 1px solid #c3c2c2;
+}
+
+.optionsLink:active{
+     animation: pulse 1s; 
+}
+
+.paymentFeesDiv{
+    text-align: center;
+    font-size: 11px;
+    margin-top: 10px;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #dedede;
+}
+
+.paymentTable {
+    margin: 0px;
+    text-align:left;
+}
+.paymentTable td, .paymentTable th{
+    padding: 5px;
+    font-size: 12px;
+}
+
+.homeBTN, .homeBTN:hover{ 
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+
+.homeBTN > span{
+    font-size: 12px;
+    display: block;
+    font-weight: 600;
+}
+
+.btnProceedPayment{
+    margin-top: 10px;
+    padding: 10px 30px;
+    background: #4e73df;
+    color: white;
+    outline: none !important;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btnBackPayment{
+    padding: 13px 30px;
+    background: #656565;
+    color: white;
+    outline: none !important;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: -3px;
+}
+
+.btnProceedPayment:hover, .btnBackPayment:hover{ 
+    color: white; 
+   text-decoration: none;
+}
+.btnProceedPayment:focus, .btnBackPayment:focus{
+   outline: none !important; 
+   text-decoration: none;
+}
+.btnProceedPayment:active{
+    animation: pulse 1s;
+    outline: none;
+}
+
+.paymentCheckBoxText{
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.paymentOptionsCheck{
+    position: absolute;
+    right: 15%;
+}
+
+
+@keyframes pulse {
+  0% { 
+    box-shadow: 0px 0px 0px 2px #e5e5e5;
+    transform: translateY(5px);
+  }
+  40%{
+    box-shadow: 2px 2px 3px 2px #e5e5e5;
+    transform: translateY(0px);
+  }
+}
+ 
+
+ #btnAgreeTAC, .btnAgreeTAC:hover, .btnAgreeTAC:focus{
+    background: #4e73df;
+    border-color: #4e73df;
+ }

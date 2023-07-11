@@ -1,0 +1,140 @@
+/**************************************************\ 
+(LG) Large Monitor Only
+\**************************************************/
+@media screen and (min-width: 1200px){}
+
+
+
+
+/**************************************************\ 
+(MD) Small Monitor Only
+\**************************************************/
+@media screen and (min-width:992px) and (max-width: 1199px){
+	.onlineCardOptions > .optionsDiv{
+		padding: 10px 30px !important;
+	}
+	.optionsDiv > label, .optionsDiv2 > label{
+	    font-size: 15px;
+	}
+	.optionsDiv > div > .optionsLink{
+	    line-height: 3 ;
+	}
+	.paymentOptionsCheck{
+		right: 16%;
+	}
+}
+
+
+/**************************************************\ 
+Small Monitor and below
+\**************************************************/
+@media screen and (max-width: 1199px){}
+
+
+
+
+/**************************************************\ 
+Tablet and above; Excluding Phone
+\**************************************************/
+@media screen and (min-width: 768px){}
+
+
+/**************************************************\ 
+(SM) Tablet Only
+\**************************************************/
+@media screen and (min-width:768px) and (max-width: 991px){
+	.optionsDiv > label, .optionsDiv2 > label{
+	    font-size: 15px;
+	}
+	.optionsDiv > div > .optionsLink{
+	    line-height: 3;
+	}
+}
+
+
+/**************************************************\ 
+(SM) Tablet Only (Retina)
+\**************************************************/
+@media screen and (min-width:768px) and (max-width: 991px) and (-webkit-min-device-pixel-ratio: 2){}
+
+
+/**************************************************\ 
+(SM) Tablet Only (Landscape)
+\**************************************************/
+@media screen and (min-width:768px) and (max-width: 991px) and (orientation : landscape){}
+
+
+/**************************************************\ 
+(SM) Tablet Only (Portrait)
+\**************************************************/
+@media screen and (min-width:768px) and (max-width: 991px) and (orientation : portrait){}
+
+
+/**************************************************\ 
+Tablet and below
+\**************************************************/
+@media screen and (max-width: 991px){
+
+}
+
+
+
+
+
+
+/**************************************************\ 
+(XS) Phone only
+\**************************************************/
+@media screen and (min-width: 390px) and (max-width:767px){
+	.TaCBox {
+	    padding: 20px 0px;
+	}
+	.custom_container{
+		max-width: 700px !important;
+	}
+	.header{
+	    text-align: center !important;
+	}
+	.upFrontOptions label{
+		margin-top: auto;
+		background: none;
+		width: auto !important;
+		padding: 0px 0px;
+		position: relative;
+		margin-left: auto;
+		margin-right: auto;
+		left: 0;
+		right: 0;
+		border:none;
+	}
+}
+
+@media screen and (max-width:390px){
+	.TaCBox {
+	    padding: 20px 0px;
+	}
+	.TaCBox > h2{
+		font-size: 19px;	
+	}
+	.TaCContent > button{
+		font-size: 13px;
+    	width: 100%;
+	}
+	.upFrontOptions > .optionsDiv, .eWalletOptions > .optionsDiv {
+		padding: 15px;
+	}	
+	.upFrontOptions label{
+		width: 100% !important;
+	}
+}
+
+/**************************************************\ 
+Phone Landscape Only
+\**************************************************/
+@media only screen and (min-width: 481px) and (max-width: 767px) {}
+
+
+/**************************************************\ 
+Phone Portrait Only
+\**************************************************/
+@media only screen and (max-width: 480px){}

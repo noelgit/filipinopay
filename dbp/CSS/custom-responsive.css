@@ -1,0 +1,124 @@
+/**************************************************\ 
+(XL) Large Monitor Only
+\**************************************************/
+@media screen and (min-width: 1200px){
+
+}
+
+
+
+
+/**************************************************\ 
+(LG) Small Monitor Only
+\**************************************************/
+@media screen and (min-width:992px) and (max-width: 1199px){
+
+}
+
+
+/**************************************************\ 
+Small Monitor and below
+\**************************************************/
+@media screen and (max-width: 1199px){
+	
+}
+
+
+
+
+/**************************************************\ 
+Tablet and above; Excluding Phone
+\**************************************************/
+@media screen and (min-width: 768px){
+	
+}
+
+
+/**************************************************\ 
+(MD) Tablet Only
+\**************************************************/
+@media screen and (min-width:768px) and (max-width: 991px){
+	.titleDiv .label2{
+		margin-top: 0px;
+	    letter-spacing: 3px;
+	    font-size: 30px;
+	}
+}
+
+@media screen and (max-width: 767px){
+}
+
+@media screen and (min-width:768px) and (max-width: 850px){ 
+
+}
+
+/**************************************************\ 
+(SM) 1
+\**************************************************/
+@media screen and (min-width: 700px) and (max-width: 767px){
+
+}
+
+/**************************************************\ 
+(SM) 2
+\**************************************************/
+@media screen and (min-width: 600px) and (max-width: 699px){
+
+}
+
+/**************************************************\ 
+(SM) Tablet Only (Retina)
+\**************************************************/
+@media screen and (min-width:768px) and (max-width: 991px) and (-webkit-min-device-pixel-ratio: 2){}
+
+
+/**************************************************\ 
+(SM) Tablet Only (Landscape)
+\**************************************************/
+@media screen and (min-width:768px) and (max-width: 991px) and (orientation : landscape){}
+
+
+/**************************************************\ 
+(SM) Tablet Only (Portrait)
+\**************************************************/
+@media screen and (min-width:768px) and (max-width: 991px) and (orientation : portrait){}
+
+
+/**************************************************\ 
+Tablet and below
+\**************************************************/
+@media screen and (max-width: 991px){
+
+}
+
+
+
+
+
+
+/**************************************************\ 
+(XS) Phone only
+\**************************************************/
+@media screen and (min-width: 390px) and (max-width:767px){
+
+
+}
+
+/**************************************************\ 
+(XXS) Phone only
+\**************************************************/
+@media screen and (max-width:390px){
+	
+	
+}
+
+/**************************************************\ 
+Phone Landscape Only
+\**************************************************/
+@media only screen and (min-width: 481px) and (max-width: 767px) {}
+
+
+/**************************************************\ 
+Phone Portrait Only
+\**************************************************/
+@media only screen and (max-width: 480px){}

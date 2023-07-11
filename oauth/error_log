@@ -1,0 +1,84 @@
+[12-Jul-2020 05:48:11 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1142 DELETE command denied to user 'prodApplication'@'ip-148-72-216-234.ip.secureserver.net' for table 'oauth_authorization_codes' in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php:307
+Stack trace:
+#0 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php(307): PDOStatement->execute(Array)
+#1 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/GrantType/AuthorizationCode.php(141): OAuth2\Storage\Pdo->expireAuthorizationCode('40a1f2de84f609c...')
+#2 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(251): OAuth2\GrantType\AuthorizationCode->createAccessToken(Object(OAuth2\ResponseType\AccessToken), 'LGUDAVAO', NULL, NULL)
+#3 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(87): OAuth2\Controller\TokenController->grantAccessToken(Object(OAuth2\Request), Object(OAuth2\Response))
+#4 /home/agcz69p5iu7q/p in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php on line 307
+[12-Jul-2020 05:49:36 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1142 DELETE command denied to user 'prodApplication'@'ip-148-72-216-234.ip.secureserver.net' for table 'oauth_authorization_codes' in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php:307
+Stack trace:
+#0 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php(307): PDOStatement->execute(Array)
+#1 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/GrantType/AuthorizationCode.php(141): OAuth2\Storage\Pdo->expireAuthorizationCode('f7f328f4175bd88...')
+#2 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(251): OAuth2\GrantType\AuthorizationCode->createAccessToken(Object(OAuth2\ResponseType\AccessToken), 'LGUDAVAO', NULL, NULL)
+#3 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(87): OAuth2\Controller\TokenController->grantAccessToken(Object(OAuth2\Request), Object(OAuth2\Response))
+#4 /home/agcz69p5iu7q/p in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php on line 307
+[12-Jul-2020 06:01:40 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1142 DELETE command denied to user 'prodApplication'@'ip-148-72-216-234.ip.secureserver.net' for table 'oauth_authorization_codes' in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php:307
+Stack trace:
+#0 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php(307): PDOStatement->execute(Array)
+#1 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/GrantType/AuthorizationCode.php(141): OAuth2\Storage\Pdo->expireAuthorizationCode('71e6950bcab6fd0...')
+#2 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(251): OAuth2\GrantType\AuthorizationCode->createAccessToken(Object(OAuth2\ResponseType\AccessToken), 'LGUDAVAO', NULL, NULL)
+#3 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(87): OAuth2\Controller\TokenController->grantAccessToken(Object(OAuth2\Request), Object(OAuth2\Response))
+#4 /home/agcz69p5iu7q/p in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php on line 307
+[12-Jul-2020 06:11:51 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1142 DELETE command denied to user 'prodApplication'@'ip-148-72-216-234.ip.secureserver.net' for table 'oauth_authorization_codes' in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php:307
+Stack trace:
+#0 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php(307): PDOStatement->execute(Array)
+#1 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/GrantType/AuthorizationCode.php(141): OAuth2\Storage\Pdo->expireAuthorizationCode('ce3862a2a094ee8...')
+#2 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(251): OAuth2\GrantType\AuthorizationCode->createAccessToken(Object(OAuth2\ResponseType\AccessToken), 'LGUDAVAO', NULL, NULL)
+#3 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(87): OAuth2\Controller\TokenController->grantAccessToken(Object(OAuth2\Request), Object(OAuth2\Response))
+#4 /home/agcz69p5iu7q/p in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php on line 307
+[12-Jul-2020 09:50:40 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1142 DELETE command denied to user 'prodApplication'@'ip-148-72-216-234.ip.secureserver.net' for table 'oauth_authorization_codes' in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php:307
+Stack trace:
+#0 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php(307): PDOStatement->execute(Array)
+#1 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/GrantType/AuthorizationCode.php(141): OAuth2\Storage\Pdo->expireAuthorizationCode('006744b03c12a3a...')
+#2 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(251): OAuth2\GrantType\AuthorizationCode->createAccessToken(Object(OAuth2\ResponseType\AccessToken), 'LGUDAVAO', NULL, NULL)
+#3 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(87): OAuth2\Controller\TokenController->grantAccessToken(Object(OAuth2\Request), Object(OAuth2\Response))
+#4 /home/agcz69p5iu7q/p in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php on line 307
+[12-Jul-2020 09:51:34 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1142 DELETE command denied to user 'prodApplication'@'ip-148-72-216-234.ip.secureserver.net' for table 'oauth_authorization_codes' in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php:307
+Stack trace:
+#0 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php(307): PDOStatement->execute(Array)
+#1 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/GrantType/AuthorizationCode.php(141): OAuth2\Storage\Pdo->expireAuthorizationCode('c061c759a3fd00f...')
+#2 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(251): OAuth2\GrantType\AuthorizationCode->createAccessToken(Object(OAuth2\ResponseType\AccessToken), 'LGUDAVAO', NULL, NULL)
+#3 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(87): OAuth2\Controller\TokenController->grantAccessToken(Object(OAuth2\Request), Object(OAuth2\Response))
+#4 /home/agcz69p5iu7q/p in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php on line 307
+[12-Jul-2020 09:52:18 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1142 DELETE command denied to user 'prodApplication'@'ip-148-72-216-234.ip.secureserver.net' for table 'oauth_authorization_codes' in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php:307
+Stack trace:
+#0 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php(307): PDOStatement->execute(Array)
+#1 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/GrantType/AuthorizationCode.php(141): OAuth2\Storage\Pdo->expireAuthorizationCode('6c196b5ae772214...')
+#2 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(251): OAuth2\GrantType\AuthorizationCode->createAccessToken(Object(OAuth2\ResponseType\AccessToken), 'LGUDAVAO', NULL, NULL)
+#3 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(87): OAuth2\Controller\TokenController->grantAccessToken(Object(OAuth2\Request), Object(OAuth2\Response))
+#4 /home/agcz69p5iu7q/p in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php on line 307
+[12-Jul-2020 09:53:34 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1142 DELETE command denied to user 'prodApplication'@'ip-148-72-216-234.ip.secureserver.net' for table 'oauth_authorization_codes' in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php:307
+Stack trace:
+#0 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php(307): PDOStatement->execute(Array)
+#1 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/GrantType/AuthorizationCode.php(141): OAuth2\Storage\Pdo->expireAuthorizationCode('73edbd7c6114ade...')
+#2 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(251): OAuth2\GrantType\AuthorizationCode->createAccessToken(Object(OAuth2\ResponseType\AccessToken), 'LGUDAVAO', NULL, NULL)
+#3 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(87): OAuth2\Controller\TokenController->grantAccessToken(Object(OAuth2\Request), Object(OAuth2\Response))
+#4 /home/agcz69p5iu7q/p in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php on line 307
+[12-Jul-2020 09:54:40 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1142 DELETE command denied to user 'prodApplication'@'ip-148-72-216-234.ip.secureserver.net' for table 'oauth_authorization_codes' in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php:307
+Stack trace:
+#0 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php(307): PDOStatement->execute(Array)
+#1 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/GrantType/AuthorizationCode.php(141): OAuth2\Storage\Pdo->expireAuthorizationCode('677f53203039afd...')
+#2 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(251): OAuth2\GrantType\AuthorizationCode->createAccessToken(Object(OAuth2\ResponseType\AccessToken), 'LGUDAVAO', NULL, NULL)
+#3 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(87): OAuth2\Controller\TokenController->grantAccessToken(Object(OAuth2\Request), Object(OAuth2\Response))
+#4 /home/agcz69p5iu7q/p in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php on line 307
+[12-Jul-2020 09:55:41 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1142 DELETE command denied to user 'prodApplication'@'ip-148-72-216-234.ip.secureserver.net' for table 'oauth_authorization_codes' in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php:307
+Stack trace:
+#0 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php(307): PDOStatement->execute(Array)
+#1 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/GrantType/AuthorizationCode.php(141): OAuth2\Storage\Pdo->expireAuthorizationCode('728942c79fc5595...')
+#2 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(251): OAuth2\GrantType\AuthorizationCode->createAccessToken(Object(OAuth2\ResponseType\AccessToken), 'LGUDAVAO', NULL, NULL)
+#3 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(87): OAuth2\Controller\TokenController->grantAccessToken(Object(OAuth2\Request), Object(OAuth2\Response))
+#4 /home/agcz69p5iu7q/p in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php on line 307
+[12-Jul-2020 10:00:46 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1142 DELETE command denied to user 'prodApplication'@'ip-148-72-216-234.ip.secureserver.net' for table 'oauth_authorization_codes' in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php:307
+Stack trace:
+#0 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php(307): PDOStatement->execute(Array)
+#1 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/GrantType/AuthorizationCode.php(141): OAuth2\Storage\Pdo->expireAuthorizationCode('1c3606708a8b751...')
+#2 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(251): OAuth2\GrantType\AuthorizationCode->createAccessToken(Object(OAuth2\ResponseType\AccessToken), 'TST_USER', NULL, NULL)
+#3 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(87): OAuth2\Controller\TokenController->grantAccessToken(Object(OAuth2\Request), Object(OAuth2\Response))
+#4 /home/agcz69p5iu7q/p in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php on line 307
+[12-Jul-2020 10:05:49 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1142 DELETE command denied to user 'prodApplication'@'ip-148-72-216-234.ip.secureserver.net' for table 'oauth_authorization_codes' in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php:307
+Stack trace:
+#0 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php(307): PDOStatement->execute(Array)
+#1 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/GrantType/AuthorizationCode.php(141): OAuth2\Storage\Pdo->expireAuthorizationCode('993984892e93d7e...')
+#2 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(251): OAuth2\GrantType\AuthorizationCode->createAccessToken(Object(OAuth2\ResponseType\AccessToken), 'LGUDAVAO', NULL, NULL)
+#3 /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Controller/TokenController.php(87): OAuth2\Controller\TokenController->grantAccessToken(Object(OAuth2\Request), Object(OAuth2\Response))
+#4 /home/agcz69p5iu7q/p in /home/agcz69p5iu7q/public_html/oauth.filipinopay.com/OAuth2/Storage/Pdo.php on line 307
