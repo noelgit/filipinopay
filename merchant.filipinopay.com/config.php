@@ -75,7 +75,7 @@
 	/**************************/
 	/* 		    PROD 		  */
 	/**************************/  
-	define("BASE_URL"	,	$actual_link, "IPG_MERCHANT/"); 
+	define("BASE_URL"	,	$actual_link. "IPG_MERCHANT/"); 
 	define("ENTERPRISE_URL"	,	$actual_link . "enterprise/"); 
 
 	//IPG_PUBLIC
