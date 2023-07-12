@@ -5,39 +5,39 @@
 	/**************************/
 	/* 		    DEV 		  */
 	/**************************/  
-	define("BASE_URL"	,	$actual_link."filipinopay/IPG_MERCHANT/"); 
-	define("ENTERPRISE_URL"	,	$actual_link."filipinopayIP/IPG_ENTERPRISE/"); 
+	// define("BASE_URL"	,	$actual_link."filipinopay/IPG_MERCHANT/"); 
+	// define("ENTERPRISE_URL"	,	$actual_link."filipinopayIP/IPG_ENTERPRISE/"); 
 
-	//IPG_PUBLIC
-	define("DB_USER_PUBLIC"	   	,	"root");
-	define("DB_PASSWORD_PUBLIC"	,	"");
-	define("DB_NAME_PUBLIC"	   	,	"ipg_prod_public");
-	define("DB_HOST_PUBLIC"		,	"localhost"); 
+	// //IPG_PUBLIC
+	// define("DB_USER_PUBLIC"	   	,	"root");
+	// define("DB_PASSWORD_PUBLIC"	,	"");
+	// define("DB_NAME_PUBLIC"	   	,	"ipg_prod_public");
+	// define("DB_HOST_PUBLIC"		,	"localhost"); 
 
-	//IPG_MERCHANT
-	define("DB_USER_MERCHANT"	    ,	"root");
-	define("DB_PASSWORD_MERCHANT"	,	"");
-	define("DB_NAME_MERCHANT"	   	,	"ipg_prod_merchant");
-	define("DB_HOST_MERCHANT"		,	"localhost"); 
+	// //IPG_MERCHANT
+	// define("DB_USER_MERCHANT"	    ,	"root");
+	// define("DB_PASSWORD_MERCHANT"	,	"");
+	// define("DB_NAME_MERCHANT"	   	,	"ipg_prod_merchant");
+	// define("DB_HOST_MERCHANT"		,	"localhost"); 
 
-	//IPG_JV
-	define("DB_USER_JV"	    ,	"root");
-	define("DB_PASSWORD_JV"	,	"");
-	define("DB_NAME_JV"	   	,	"ipg_prod_jv");
-	define("DB_HOST_JV"		,	"localhost"); 
+	// //IPG_JV
+	// define("DB_USER_JV"	    ,	"root");
+	// define("DB_PASSWORD_JV"	,	"");
+	// define("DB_NAME_JV"	   	,	"ipg_prod_jv");
+	// define("DB_HOST_JV"		,	"localhost"); 
 
-	//IPG_ENTERPRISE
-	define("DB_USER_ENTERPRISE"		,	"root");
-	define("DB_PASSWORD_ENTERPRISE"	,	"");
-	define("DB_NAME_ENTERPRISE"		,	"ipg_prod_enterprise");
-	define("DB_HOST_ENTERPRISE"		,	"localhost"); 
+	// //IPG_ENTERPRISE
+	// define("DB_USER_ENTERPRISE"		,	"root");
+	// define("DB_PASSWORD_ENTERPRISE"	,	"");
+	// define("DB_NAME_ENTERPRISE"		,	"ipg_prod_enterprise");
+	// define("DB_HOST_ENTERPRISE"		,	"localhost"); 
 
- 	define("COMPANY_NAME"	,	"IPG Merchant");
- 	define("FOOTER"		,	"Copyright &copy; ".date('Y')." ".COMPANY_NAME.". All Rights Reserved.");
+ 	// define("COMPANY_NAME"	,	"IPG Merchant");
+ 	// define("FOOTER"		,	"Copyright &copy; ".date('Y')." ".COMPANY_NAME.". All Rights Reserved.");
 
-	define("CSS"		,	BASE_URL."CSS/");
-	define("JS"			,	BASE_URL."JS/"); 
-	define("IMG"		,	BASE_URL."IMAGES/"); 
+	// define("CSS"		,	BASE_URL."CSS/");
+	// define("JS"			,	BASE_URL."JS/"); 
+	// define("IMG"		,	BASE_URL."IMAGES/"); 
 
 	/**************************/
 	/* 		    STG 		  */
@@ -81,38 +81,38 @@
 	/**************************/
 	/* 		    PROD 		  */
 	/**************************/  
-	// define("BASE_URL"	,	$actual_link."IPG_MERCHANT/"); 
-	// define("ENTERPRISE_URL"	,	$actual_link."IPG_ENTERPRISE/"); 
+	define("BASE_URL"	,	$actual_link."IPG_MERCHANT/"); 
+	define("ENTERPRISE_URL"	,	$actual_link."IPG_ENTERPRISE/"); 
 
-	// //IPG_PUBLIC
-	// define("DB_USER_PUBLIC"	   	,	"root");
-	// define("DB_PASSWORD_PUBLIC"	,	"@dminP4y");
-	// define("DB_NAME_PUBLIC"	   	,	"ipg_prod_public");
-	// define("DB_HOST_PUBLIC"		,	"localhost"); 
+	//IPG_PUBLIC
+	define("DB_USER_PUBLIC"	   	,	"root");
+	define("DB_PASSWORD_PUBLIC"	,	"@dminP4y");
+	define("DB_NAME_PUBLIC"	   	,	"ipg_prod_public");
+	define("DB_HOST_PUBLIC"		,	"localhost"); 
 
-	// //IPG_MERCHANT
-	// define("DB_USER_MERCHANT"	    ,	"root");
-	// define("DB_PASSWORD_MERCHANT"	,	"@dminP4y");
-	// define("DB_NAME_MERCHANT"	   	,	"ipg_prod_merchant");
-	// define("DB_HOST_MERCHANT"		,	"localhost"); 
+	//IPG_MERCHANT
+	define("DB_USER_MERCHANT"	    ,	"root");
+	define("DB_PASSWORD_MERCHANT"	,	"@dminP4y");
+	define("DB_NAME_MERCHANT"	   	,	"ipg_prod_merchant");
+	define("DB_HOST_MERCHANT"		,	"localhost"); 
 
-	// //IPG_JV
-	// define("DB_USER_JV"	    ,	"root");
-	// define("DB_PASSWORD_JV"	,	"@dminP4y");
-	// define("DB_NAME_JV"	   	,	"ipg_prod_jv");
-	// define("DB_HOST_JV"		,	"localhost"); 
+	//IPG_JV
+	define("DB_USER_JV"	    ,	"root");
+	define("DB_PASSWORD_JV"	,	"@dminP4y");
+	define("DB_NAME_JV"	   	,	"ipg_prod_jv");
+	define("DB_HOST_JV"		,	"localhost"); 
 
-	// //IPG_ENTERPRISE
-	// define("DB_USER_ENTERPRISE"		,	"root");
-	// define("DB_PASSWORD_ENTERPRISE"	,	"@dminP4y");
-	// define("DB_NAME_ENTERPRISE"		,	"ipg_prod_enterprise");
-	// define("DB_HOST_ENTERPRISE"		,	"localhost"); 
+	//IPG_ENTERPRISE
+	define("DB_USER_ENTERPRISE"		,	"root");
+	define("DB_PASSWORD_ENTERPRISE"	,	"@dminP4y");
+	define("DB_NAME_ENTERPRISE"		,	"ipg_prod_enterprise");
+	define("DB_HOST_ENTERPRISE"		,	"localhost"); 
 
- 	// define("COMPANY_NAME"	,	"IPG Merchant");
- 	// define("FOOTER"		,	"Copyright &copy; ".date('Y')." ".COMPANY_NAME.". All Rights Reserved.");
+ 	define("COMPANY_NAME"	,	"IPG Merchant");
+ 	define("FOOTER"		,	"Copyright &copy; ".date('Y')." ".COMPANY_NAME.". All Rights Reserved.");
 
-	// define("CSS"		,	BASE_URL."CSS/");
-	// define("JS"			,	BASE_URL."JS/"); 
-	// define("IMG"		,	BASE_URL."IMAGES/"); 
+	define("CSS"		,	BASE_URL."CSS/");
+	define("JS"			,	BASE_URL."JS/"); 
+	define("IMG"		,	BASE_URL."IMAGES/"); 
 
 ?>
