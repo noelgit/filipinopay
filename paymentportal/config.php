@@ -121,25 +121,25 @@
 	define("DB_USER_MERCHANT"	    , "root");
 	define("DB_PASSWORD_MERCHANT"	, "@dminP4y");
 	define("DB_NAME_MERCHANT"	   	, "ipg_prod_merchant");
-	define("DB_HOST_MERCHANT"		, "54.255.135.27"); 
+	define("DB_HOST_MERCHANT"		, "localhost"); 
 
 	//IPG_JV
 	define("DB_USER_JV"	    , "root");
 	define("DB_PASSWORD_JV"	, "@dminP4y");
 	define("DB_NAME_JV"	   	, "ipg_prod_jv");
-	define("DB_HOST_JV"		, "54.255.135.27"); 
+	define("DB_HOST_JV"		, "localhost"); 
 
 	//IPG_ENTERPRISE
 	define("DB_USER_ENTERPRISE"		, "root");
 	define("DB_PASSWORD_ENTERPRISE"	, "@dminP4y");
 	define("DB_NAME_ENTERPRISE"		, "ipg_prod_enterprise");
-	define("DB_HOST_ENTERPRISE"		, "54.255.135.27"); 
+	define("DB_HOST_ENTERPRISE"		, "localhost"); 
 		
 	//IPG_GATEWAY
 	define("DB_USER_GATEWAY"	 , "root");
 	define("DB_PASSWORD_GATEWAY" , "@dminP4y");
 	define("DB_NAME_GATEWAY"	 , "ipg_prod_gateway");
-	define("DB_HOST_GATEWAY"	 , "54.255.135.27");
+	define("DB_HOST_GATEWAY"	 , "localhost");
 	
 	//EMAIL CONFIGURATION
 	define("MAIL_HOST"			, "mail.filipinopay.com");

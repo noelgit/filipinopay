@@ -68,7 +68,7 @@
 	/**************************/
 	/* 		    PROD 		  */
 	/**************************/
-	define("BASE_URL"  ,	$actual_link);
+	define("BASE_URL"  ,	$actual_link . "tieza/");
 	//IPG CREDENTIALS
 	// define("IPG_ENTERPRISE_URL"		,  $actual_link . "http://enterprise.filipinopay.com/"); 
 	// define("IPG_OAUTH_URL"			,  $actual_link . "http://oauth.filipinopay.com/");  

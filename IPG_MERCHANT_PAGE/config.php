@@ -64,8 +64,8 @@
 	define("DB_NAME"	,	"");
 	define("DB_HOST"	,	"localhost"); 
 	
-	define("ENTERPRISE_URL"	,	$actual_link."public_html/IPG_ENTERPRISE/"); 
-	define("OAUTH_URL"	,	$actual_link."GAI_PROJECTS/IPG_OAUTH/"); 
+	define("ENTERPRISE_URL"	,	$actual_link."IPG_ENTERPRISE/"); 
+	define("OAUTH_URL"	,	$actual_link."IPG_OAUTH/"); 
 	define("IPG_OAUTH_USERNAME"  	,  "TST_USER");
 	define("IPG_OAUTH_PASSWORD"  	,  "password");
 	define("IPG_MERCHANT_CODE" 	  	,  "TST0001");
