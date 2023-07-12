@@ -3,13 +3,17 @@
 	include("config.php");
 	include("LIBRARIES/libraries.php");
  	error_reporting(E_ALL); 
-	echo BASE_URL;
+	
 	$timeStamp 	    = date('Y-m-d G:i:s');
 	$firstPage		=	isset($_GET["val1"]) ? $_GET["val1"] : false;  
 	$secondPage		=	isset($_GET["val2"]) ? $_GET["val2"] : false;  
 	$thirdPage		=	isset($_GET["val3"]) ? $_GET["val3"] : false;  
 	$fourthPage		=	isset($_GET["val4"]) ? $_GET["val4"] : false; 
-	
+	echo $_GET;
+	echo $firstPage;
+	echo $secondPage;
+	echo $thirdPage;
+	echo $fourthPage;
 
 	$title = $secondPage != "" ? str_replace("-", " ", $firstPage)." - ".str_replace("-", " ", $secondPage) : str_replace("-", " ", $firstPage) ; 
 ?>
