@@ -69,7 +69,7 @@
 	define("DB_USER"		,	"root");
 	define("DB_PASSWORD"	,	"@dminP4y");
 	define("DB_NAME"		,	"lgu_prod_davao");
-	define("DB_HOST"		,	"54.255.135.27");
+	define("DB_HOST"		,	"localhost");
 
 	//define("ENTERPRISE_URL"	    ,  "http://enterprise.filipinopay.com/"); 
 	define("ENTERPRISE_URL"			,  $actual_link."enterprise/");
