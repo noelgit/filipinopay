@@ -2,7 +2,7 @@
 	session_start();  
 	include("config.php");
 	include("LIBRARIES/libraries.php");
- 	error_reporting(0);
+ 	error_reporting(E_ALL);
 
 	$timeStamp 	    = date('Y-m-d G:i:s');
 	$firstPage		=	isset($_GET["val1"]) ? $_GET["val1"] : false;  
