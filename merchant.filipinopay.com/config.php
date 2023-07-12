@@ -75,8 +75,8 @@
 	/**************************/
 	/* 		    PROD 		  */
 	/**************************/  
-	define("BASE_URL"	,	$actual_link); 
-	define("ENTERPRISE_URL"	,	"http://filipinopay.com/enterprise/"); 
+	define("BASE_URL"	,	$actual_link, "IPG_MERCHANT/"); 
+	define("ENTERPRISE_URL"	,	$actual_link . "enterprise/"); 
 
 	//IPG_PUBLIC
 	define("DB_USER_PUBLIC"	   	,	"root");
