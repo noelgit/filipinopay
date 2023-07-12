@@ -3,7 +3,7 @@
 	include("config.php");
 	include("LIBRARIES/libraries.php");
 	ini_set('display_errors', 1);
- 	error_reporting(E_ALL);
+ 	error_reporting(E_ALL); 
 
 	$timeStamp 	    = date('Y-m-d G:i:s');
 	$firstPage		=	isset($_GET["val1"]) ? $_GET["val1"] : false;  
