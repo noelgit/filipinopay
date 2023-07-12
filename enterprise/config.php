@@ -108,38 +108,38 @@
 	define("PUBLIC_URL"	,	$actual_link."paymentportal/");
 
 	//IPG_OAUTH
-	define("DB_USER_OAUTH"		,	"prodApplication");
-	define("DB_PASSWORD_OAUTH"	,	"ragMANOK2kx@djd0503");
+	define("DB_USER_OAUTH"		,	"root");
+	define("DB_PASSWORD_OAUTH"	,	"@dminP4y");
 	define("DB_NAME_OAUTH"		,	"ipg_prod_oauth");
 	define("DB_HOST_OAUTH"		,	"localhost"); 
 	//IPG_PUBLIC
-	define("DB_USER_PUBLIC"	   	,	"prodApplication");
-	define("DB_PASSWORD_PUBLIC"	,	"ragMANOK2kx@djd0503");
+	define("DB_USER_PUBLIC"	   	,	"root");
+	define("DB_PASSWORD_PUBLIC"	,	"@dminP4y");
 	define("DB_NAME_PUBLIC"	   	,	"ipg_prod_public");
 	define("DB_HOST_PUBLIC"		,	"localhost"); 
 	//IPG_MERCHANT
-	define("DB_USER_MERCHANT"	    ,	"prodApplication");
-	define("DB_PASSWORD_MERCHANT"	,	"ragMANOK2kx@djd0503");
+	define("DB_USER_MERCHANT"	    ,	"root");
+	define("DB_PASSWORD_MERCHANT"	,	"@dminP4y");
 	define("DB_NAME_MERCHANT"	   	,	"ipg_prod_merchant");
 	define("DB_HOST_MERCHANT"		,	"localhost"); 
 	//IPG_JV
-	define("DB_USER_JV"	    ,	"prodApplication");
-	define("DB_PASSWORD_JV"	,	"ragMANOK2kx@djd0503");
+	define("DB_USER_JV"	    ,	"root");
+	define("DB_PASSWORD_JV"	,	"@dminP4y");
 	define("DB_NAME_JV"	   	,	"ipg_prod_jv");
 	define("DB_HOST_JV"		,	"localhost"); 
 	//IPG_ENTERPRISE
-	define("DB_USER_ENTERPRISE"		,	"prodApplication");
-	define("DB_PASSWORD_ENTERPRISE"	,	"ragMANOK2kx@djd0503");
+	define("DB_USER_ENTERPRISE"		,	"root");
+	define("DB_PASSWORD_ENTERPRISE"	,	"@dminP4y");
 	define("DB_NAME_ENTERPRISE"		,	"ipg_prod_enterprise");
 	define("DB_HOST_ENTERPRISE"		,	"localhost"); 
 	//IPG_GATEWAY
-	define("DB_USER_GATEWAY"	,	"prodApplication");
-	define("DB_PASSWORD_GATEWAY",	"ragMANOK2kx@djd0503");
+	define("DB_USER_GATEWAY"	,	"root");
+	define("DB_PASSWORD_GATEWAY",	"@dminP4y");
 	define("DB_NAME_GATEWAY"	,	"ipg_prod_gateway");
 	define("DB_HOST_GATEWAY"	,	"localhost");
 	//TIEZA DATABASE
-	define("DB_USER_TIEZA"		,	"dennisjdizon03");
-	define("DB_PASSWORD_TIEZA"	,	"ragMANOK2kx@djd");
+	define("DB_USER_TIEZA"		,	"root");
+	define("DB_PASSWORD_TIEZA"	,	"@dminP4y");
 	define("DB_NAME_TIEZA"		,	"tieza_online_payment");
 	define("DB_HOST_TIEZA"		,	"localhost"); 
 	//EMAIL CONFIGURATION
