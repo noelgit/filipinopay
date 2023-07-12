@@ -62,7 +62,7 @@
 	define("DB_USER"	,	"root");
 	define("DB_PASSWORD",	"@dminP4y");
 	define("DB_NAME"	,	"");
-	define("DB_HOST"	,	"54.255.135.27"); 
+	define("DB_HOST"	,	"localhost"); 
 	
 	define("ENTERPRISE_URL"	,	$actual_link."public_html/IPG_ENTERPRISE/"); 
 	define("OAUTH_URL"	,	$actual_link."GAI_PROJECTS/IPG_OAUTH/"); 

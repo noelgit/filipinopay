@@ -50,8 +50,8 @@
 	define("DB_NAME"	,	"");
 	define("DB_HOST"	,	""); 
 	
-	define("ENTERPRISE_URL"			, "http://filipinopay.com/enterprise/"); 
-	define("OAUTH_URL"				, "http://filipinopay.com/oauth/"); 
+	define("ENTERPRISE_URL"			, $actual_link. "enterprise/"); 
+	define("OAUTH_URL"				, $actual_link. "oauth/"); 
 	define("IPG_OAUTH_USERNAME"  	,  "TST_USER");
 	define("IPG_OAUTH_PASSWORD"  	,  "password");
 	define("IPG_MERCHANT_CODE" 	  	,  "TST0001");

@@ -70,8 +70,10 @@
 	/**************************/
 	define("BASE_URL"  ,	$actual_link);
 	//IPG CREDENTIALS
-	define("IPG_ENTERPRISE_URL"		,  "http://enterprise.filipinopay.com/"); 
-	define("IPG_OAUTH_URL"			,  "http://oauth.filipinopay.com/");  
+	// define("IPG_ENTERPRISE_URL"		,  $actual_link . "http://enterprise.filipinopay.com/"); 
+	// define("IPG_OAUTH_URL"			,  $actual_link . "http://oauth.filipinopay.com/");  
+	define("IPG_ENTERPRISE_URL"		,  $actual_link . "enterprise/"); 
+	define("IPG_OAUTH_URL"			,  $actual_link . "oauth/");  
 	define("IPG_OAUTH_USERNAME"  	,  "TIE_USER");
 	define("IPG_OAUTH_PASSWORD"  	,  "password");
 	define("IPG_MERCHANT_CODE" 	  	,  "TIE0001");
@@ -80,10 +82,10 @@
 	define("FAILED_PAGE"  			,  BASE_URL);
 	
 	//DATABASE CONFIGURATION
-	define("DB_TIEZA_USER"	,	"dennisjdizon03");
-	define("DB_TIEZA_PASSWORD",	"ragMANOK2kx@djd");
+	define("DB_TIEZA_USER"	,	"root");
+	define("DB_TIEZA_PASSWORD",	"@dminP4y");
 	define("DB_TIEZA_NAME"	,	"tieza_online_payment");
-	define("DB_TIEZA_HOST"	,	"148.72.216.234");
+	define("DB_TIEZA_HOST"	,	"localhost");
 
 	//EMAIL CONFIGURATION 
 	define("MAIL_HOST"			,	"mail.filipinopay.com");

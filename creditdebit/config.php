@@ -35,7 +35,7 @@
 	define("DB_USER"	  ,  "root");
 	define("DB_PASSWORD"  ,  "@dminP4y");
 	define("DB_NAME"	  ,  "ipg_prod_gateway");
-	define("DB_HOST"	  ,  "54.255.135.27");
+	define("DB_HOST"	  ,  "localhost");
 	//EMAIL CONFIGURATION
 	define("MAIL_HOST"			,	"smtp.filipinopay.com");
 	define("MAIL_PORT"			,	587);

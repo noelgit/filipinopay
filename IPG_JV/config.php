@@ -92,25 +92,25 @@
 	define("DB_USER_PUBLIC"	   	,	"root");
 	define("DB_PASSWORD_PUBLIC"	,	"@dminP4y");
 	define("DB_NAME_PUBLIC"	   	,	"ipg_prod_public");
-	define("DB_HOST_PUBLIC"		,	"54.255.135.27"); 
+	define("DB_HOST_PUBLIC"		,	"localhost"); 
 
 	//IPG_MERCHANT
 	define("DB_USER_MERCHANT"	    ,	"root");
 	define("DB_PASSWORD_MERCHANT"	,	"@dminP4y");
 	define("DB_NAME_MERCHANT"	   	,	"ipg_prod_merchant");
-	define("DB_HOST_MERCHANT"		,	"54.255.135.27"); 
+	define("DB_HOST_MERCHANT"		,	"localhost"); 
 
 	//IPG_JV
 	define("DB_USER_JV"	    ,	"root");
 	define("DB_PASSWORD_JV"	,	"@dminP4y");
 	define("DB_NAME_JV"	   	,	"ipg_prod_jv");
-	define("DB_HOST_JV"		,	"54.255.135.27"); 
+	define("DB_HOST_JV"		,	"localhost"); 
 
 	//IPG_ENTERPRISE
 	define("DB_USER_ENTERPRISE"		,	"root");
 	define("DB_PASSWORD_ENTERPRISE"	,	"@dminP4y");
 	define("DB_NAME_ENTERPRISE"		,	"ipg_prod_enterprise");
-	define("DB_HOST_ENTERPRISE"		,	"54.255.135.27"); 
+	define("DB_HOST_ENTERPRISE"		,	"localhost"); 
 
 	
  	define("COMPANY_NAME"	,	"IPG Joint Venture");
