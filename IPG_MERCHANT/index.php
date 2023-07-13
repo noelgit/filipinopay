@@ -51,8 +51,8 @@
 					$file =	BASE_URL."PAGES/".strtoupper($firstPage)."/".strtoupper($secondPage)."/index.php";  
 				} 
 			}    
-			print_r("get headers: " .@get_headers($file));
-			print_r("file: " .$file);
+			print_r(@get_headers($file));
+			print_r($file);
 			$file_headers = @get_headers($file);  
 			if($file_headers[0] == 'HTTP/1.1 404 Not Found') {
 				$exists = false;
