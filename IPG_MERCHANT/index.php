@@ -16,7 +16,7 @@
 ?>
 
 <!DOCTYPE html> 
-<html lang="en">
+<html lang="en">	
 	<head>      
 		<title><?php echo COMPANY_NAME." | ".ucwords($title); ?></title>
 		<meta charset="utf-8" />
@@ -61,7 +61,7 @@
 
 			else { 
 				$exists = true;
-				if($firstPage == "" OR $firstPage == "login"){ 
+				if($firstPage == "login"){ 
 					require_once("PAGES/".strtoupper($firstPage)."/index.php"); 
 				}else{	
 					if($secondPage == "" OR $firstPage == "DASHBOARD"){  
