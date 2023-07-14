@@ -32,6 +32,22 @@
     $lastDayMonth = date("Y-m-t", strtotime($monthToday));
 
     while (strtotime($firstDayMonth) <= strtotime($lastDayMonth)) {  
+        if(!isset($graphArray[$firstDayMonth]['date'])){
+            $graphArray[$firstDayMonth]['date'] = $firstDayMonth;
+        }
+
+        if(!isset($graphArray[$firstDayMonth]['onlinePayment'])){
+            $graphArray[$firstDayMonth]['onlinePayment'] = 0;
+        }
+
+        if(!isset($graphArray[$firstDayMonth]['upFrontPayment'])){
+            $graphArray[$firstDayMonth]['upFrontPayment'] = 0;
+        }
+
+        if(!isset($graphArray[$firstDayMonth]['eWalletPayment'])){
+            $graphArray[$firstDayMonth]['eWalletPayment'] = 0;
+        }
+        
         $graphArray[$firstDayMonth]['date'] = $firstDayMonth;
         $graphArray[$firstDayMonth]['onlinePayment'] += 0;
         $graphArray[$firstDayMonth]['upFrontPayment'] += 0;
@@ -113,23 +129,23 @@
     $tableQueryData = array();
     $tableQueryData['MERCHANT_CODE'] = $merchantCode; 
 
-    $dateFrom        =  $_POST['dateFrom'] ? $_POST['dateFrom'] : false;  
-    $dateToFormat    =  $_POST['dateTo'] ? date('Y-m-d', strtotime($_POST['dateTo'] . '+1 day')) : false; 
-    $dateTo          =  $_POST['dateTo'] ? $_POST['dateTo'] : false; 
-    $referenceNumber =  $_POST['referenceNumber'] ? $_POST['referenceNumber'] : false; 
-    $ORNumber        =  $_POST['ORNumber'] ? $_POST['ORNumber'] : false; 
+    $dateFrom        =  isset($_POST['dateFrom']) ? $_POST['dateFrom'] : false;  
+    $dateToFormat    =  isset($_POST['dateTo']) ? date('Y-m-d', strtotime($_POST['dateTo'] . '+1 day')) : false; 
+    $dateTo          =  isset($_POST['dateTo']) ? $_POST['dateTo'] : false; 
+    $referenceNumber =  isset($_POST['referenceNumber']) ? $_POST['referenceNumber'] : false; 
+    $ORNumber        =  isset($_POST['ORNumber']) ? $_POST['ORNumber'] : false; 
 
     $additionalQuery = "";
-    if($_POST['dateFrom'] AND $_POST['dateTo']){
+    if(isset($_POST['dateFrom']) AND isset($_POST['dateTo'])){
         $tableQueryData['DATEFROM'] = $dateFrom;
         $tableQueryData['DATETOFORMAT'] = $dateToFormat;
         $additionalQuery .= "(tth.`CREATED_DATE` BETWEEN :DATEFROM AND :DATETOFORMAT) AND "; 
     }
-    if($_POST['referenceNumber']){
+    if(isset($_POST['referenceNumber'])){
         $tableQueryData['MERCHANT_REF_NUM'] = $referenceNumber;
         $additionalQuery .= "tth.`MERCHANT_REF_NUM` = :MERCHANT_REF_NUM AND "; 
     }
-    if($_POST['ORNumber']){
+    if(isset($_POST['ORNumber'])){
         $tableQueryData['EOR'] = $ORNumber;
         $additionalQuery .= "te.`EOR` = :EOR AND "; 
     } 
@@ -158,12 +174,19 @@
         $profitData = array();
 
         foreach($tableData as $data){
+            if(!isset($profitData['profitToday'])){
+                $profitData['profitToday'] = 0;
+            }
             $profitData['profitToday'] += 0;
             $date = date_create($data->CREATED_DATE); 
             $createdDate = date_format($date,"Y/m/d");  
             $createdDateForm = date_format($date,"M, d Y");
             $dateYesterday = date("Y/m/d",strtotime("-1 day"));
             
+            if(!isset($profitData['profitYesterday'])){
+                $profitData['profitYesterday'] = 0;
+            }
+
             if($createdDate == date("Y/m/d")){ 
                 $profitData['profitToday'] += $data->TOTALAMOUNT;
             } 
@@ -171,6 +194,9 @@
             if($dateYesterday == $createdDate){
                 $profitData['profitYesterday'] += $data->TOTALAMOUNT;
             }
+                if(!isset($profitData['highestProfit'][$createdDate])){
+                    $profitData['highestProfit'][$createdDate] = 0;
+                }
                 $profitData['highestProfit'][$createdDate] += $data->TOTALAMOUNT;   
         }
          
