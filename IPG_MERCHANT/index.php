@@ -11,7 +11,7 @@
 	$thirdPage		=	isset($_GET["val3"]) ? $_GET["val3"] : false;  
 	$fourthPage		=	isset($_GET["val4"]) ? $_GET["val4"] : false; 
 	
-	echo $firstPage;
+	// echo $firstPage;
 	$title = $secondPage != "" ? str_replace("-", " ", $firstPage)." - ".str_replace("-", " ", $secondPage) : str_replace("-", " ", $firstPage) ; 
 ?>
 
@@ -51,8 +51,8 @@
 					$file =	BASE_URL."PAGES/".strtoupper($firstPage)."/".strtoupper($secondPage)."/index.php";  
 				} 
 			}    
-			print_r(@get_headers($file));
-			print_r($file);
+			// print_r(@get_headers($file));
+			// print_r($file);
 			$file_headers = @get_headers($file);  
 			if($file_headers[0] == 'HTTP/1.1 404 Not Found') {
 				$exists = false;
