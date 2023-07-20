@@ -2,7 +2,7 @@
 RewriteOptions inherit
 RewriteEngine On
 
-RewriteCond %{HTTP_HOST} ^www\.(.+)
+# RewriteCond %{HTTP_HOST} ^www\.(.+)
 RewriteCond %{HTTPS}s/%1 ^(on(s)|offs)/(.+)
 RewriteRule ^ http%2://%3%{REQUEST_URI} [L,R=301] 
 
